@@ -7,6 +7,5 @@ export default function header(props) {
             <h2>{props.month}</h2>
             <button>Next</button>
         </div>
-
     )
 }
